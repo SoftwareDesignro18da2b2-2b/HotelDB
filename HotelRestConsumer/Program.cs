@@ -10,6 +10,7 @@ namespace HotelRestConsumer
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
